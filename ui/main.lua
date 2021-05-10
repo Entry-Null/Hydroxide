@@ -1,7 +1,7 @@
 local CoreGui = game:GetService("CoreGui")
 local UserInput = game:GetService("UserInputService")
 
-local Interface = import("rbxassetid://5042109928")
+local Interface = import("rbxassetid://6793844305")
 
 import("ui/controls/TabSelector")
 local MessageBox, MessageType = import("ui/controls/MessageBox")
